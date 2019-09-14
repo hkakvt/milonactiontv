@@ -1,3 +1,4 @@
 url.contains(".faselhdstream.com/stream/")
+url.contains(".faselhd.cc/stream/")
 url.contains("://s") && url.contains(".govid.me/")
 url.contains("://s") && url.contains(".jawcloud.co/hls/")
